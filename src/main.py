@@ -2,7 +2,7 @@ from mylib import show_all_contacts, add_contact, delete_contact, update_contact
 
 def main():
     while True:
-        print("Yellow Pages - Emergency Ambulance Contacts")
+        print("Yellow Pages - Emergency Ambulance Contacts!")
         print("1. Show all contacts")
         print("2. Add contact")
         print("3. Delete contact")

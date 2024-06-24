@@ -1,4 +1,6 @@
-![Header](.E:\CAPSTONE_PROJECT_1\docs)
+# YellowPages.apps
+![Black Grunge Book Cover Mockup Instagram Post](https://github.com/chandra879012/YellowPages.apps/assets/171644457/985e5b88-f4f3-4bd8-bf33-1d32bd3c3b61)
+
 
 ## About
 
@@ -13,13 +15,14 @@ The YellowPages application was developed in 2024 and further developed by yello
 ## Installation
 
 To get this project, you can clone it by running the following code:
+https://github.com/chandra879012/YellowPages.apps.git
 
-    git clone git@github.com:fandanabil1379/Fruit-Inventory-Management-Apps.git
+    
 
     
 ## Project Organization
 
-The directory structure of FruitMarket project looks like this:
+The directory structure of YellowPages project looks like this:
 
     ├── README.md          <- The top-level README for developers using this project.
     │
