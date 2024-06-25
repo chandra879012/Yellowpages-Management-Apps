@@ -63,7 +63,7 @@ def add_contact():
     
     while True:
         kota = input("Kota: ")
-        if not kota.isalpha():
+        if not kota.replace(" ", "").isalpha():
             print("Invalid input. Please enter alphabetic characters for Kota.")
         else:
             break
@@ -79,14 +79,14 @@ def add_contact():
     
     while True:
         provinsi = input("Provinsi: ")
-        if not provinsi.isalpha():
+        if not provinsi.replace(" ", "").isalpha():
             print("Invalid input. Please enter alphabetic characters for Provinsi.")
         else:
             break
     
     while True:
         negara = input("Negara: ")
-        if not negara.isalpha():
+        if not negara.replace(" ", "").isalpha():
             print("Invalid input. Please enter alphabetic characters for Negara.")
         else:
             break
@@ -173,7 +173,7 @@ def update_contact():
             if column == "1":
                 while True:
                     kota = input("Kota: ")
-                    if not kota.isalpha():
+                    if not kota.replace(" ", "").isalpha():
                         print("Invalid input. Please enter alphabetic characters for Kota.")
                     else:
                         break
@@ -191,7 +191,7 @@ def update_contact():
             elif column == "3":
                 while True:
                     provinsi = input("Provinsi: ")
-                    if not provinsi.isalpha():
+                    if not provinsi.replace(" ", "").isalpha():
                         print("Invalid input. Please enter alphabetic characters for Provinsi.")
                     else:
                         break
@@ -199,7 +199,7 @@ def update_contact():
             elif column == "4":
                 while True:
                     negara = input("Negara: ")
-                    if not negara.isalpha():
+                    if not negara.replace(" ", "").isalpha():
                         print("Invalid input. Please enter alphabetic characters for Negara.")
                     else:
                         break
