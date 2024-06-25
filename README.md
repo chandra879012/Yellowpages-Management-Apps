@@ -9,7 +9,7 @@ The YellowPages application was developed in 2024 and further developed by yello
 1. **Read Number**, YellowPages displays the entire urgent number available in the database, and you will always get the latest updates from your database.
 2. **Add Number**, YellowPages helps you register new urgent number and update urgent number,Hospital and region.
 3. **Delete Number**, YellowPages provides high mobility to remove database that you do not need or the number is no longer active.
-4. **Update NUmber**, YellowPages provides an experience for user to update and change for urgent number from anywhere at any time.
+4. **Update Number**, YellowPages provides an experience for user to update and change for urgent number from anywhere at any time.
 
 
 ## Installation
