@@ -140,8 +140,10 @@ def delete_contact():
     else:
         print("Contact not found!")
 
-    # Display the updated table
+    # Display the available table
     show_all_contacts()
+
+# Rest of the code...
 
 def update_contact():
     clear_screen()
